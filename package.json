@@ -22,7 +22,7 @@
     "@stylistic/eslint-plugin-plus": "^3.0.1",
     "@stylistic/eslint-plugin-ts": "^3.0.1",
     "@tanstack/eslint-plugin-router": "^1.99.3",
-    "@tanstack/router-plugin": "^1.99.9",
+    "@tanstack/router-plugin": "^1.99.10",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
     "@vitejs/plugin-react": "^4.3.4",
